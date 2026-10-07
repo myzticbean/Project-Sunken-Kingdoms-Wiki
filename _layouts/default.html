@@ -41,7 +41,13 @@
         </ul>
         {% endfor %}
       </details>
-      <script>if (matchMedia('(max-width: 900px)').matches) document.querySelector('.index details').removeAttribute('open');</script>
+      <script>
+        (function () {
+          var mq = matchMedia('(max-width: 900px)'), d = document.querySelector('.index details');
+          function sync() { d.open = !mq.matches; }
+          sync(); mq.addEventListener('change', sync);
+        })();
+      </script>
     </aside>
 
     <main class="content">
