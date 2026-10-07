@@ -99,7 +99,7 @@ most rooms have one.
 ## The Hush's dead are deaf
 
 In the Hush, the dead barely notice you unless you're within about 8 blocks, and they're **silent**
-until they do. The **sculk** hears for them. See [The Kingdoms: the Hush](The-Kingdoms#the-hush).
+until they do. The **sculk** hears for them. See [The Kingdoms: the Hush](The-Kingdoms.md#the-hush).
 
 ## The Oathbound
 
@@ -135,4 +135,4 @@ As the Waking rises, rooms can surprise you:
 | **the hold you're in** | more dead per room, more wights |
 | **party size** | +50% health per extra member, capped at 3.5× |
 
-Next: [Hoards, Veins and Loot](Hoards-Veins-and-Loot)
+Next: [Hoards, Veins and Loot](Hoards-Veins-and-Loot.md)

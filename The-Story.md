@@ -212,4 +212,4 @@ with no line in the story is treated as wrong. Some examples:
 | A gate holds for one night | A delve ends 90 minutes after the first fall |
 | The only fire is under the Cairn | The Nether and the End are switched off |
 
-Next: [The Kingdoms](The-Kingdoms)
+Next: [The Kingdoms](The-Kingdoms.md)

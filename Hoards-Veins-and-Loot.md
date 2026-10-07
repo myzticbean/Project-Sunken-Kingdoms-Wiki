@@ -155,4 +155,4 @@ it out.
 A friend can carry your bag out for you. That costs your party a member (walking out is final), which
 is the price.
 
-Next: [The Waking](The-Waking)
+Next: [The Waking](The-Waking.md)

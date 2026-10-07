@@ -75,7 +75,7 @@ Within a minute you will notice that things work differently down here:
 | ender pearl or `/home` away | refused: *"The halls do not let go."* |
 
 **How you heal:** put down the dead. Each one returns some Breath to whoever lands the final blow.
-You'll see heart particles. See [The Breath and the Seal](The-Breath-and-the-Seal).
+You'll see heart particles. See [The Breath and the Seal](The-Breath-and-the-Seal.md).
 
 **If you get stuck** below a drop you can't climb back up, type `/delve unstick`. It returns you to the
 door of the room you're in (60-second cooldown).
@@ -89,12 +89,12 @@ Things to look for:
 
 - **The dead.** They rise out of the floor as you get near. Some carry a coloured **mark** that makes
   them faster, tougher or stronger. A **wight** glows through the rock, has a name, and hits hard.
-  See [The Dead](The-Dead).
+  See [The Dead](The-Dead.md).
 - **Hoards.** Old copper chests. If a hoard is **smoking with soul particles**, its room's dead still
   stand. Opening it now means **robbing** it. See below.
 - **Barrels and pots.** Never watched. Open barrels and smash pots freely for minor loot.
 - **Ore veins.** Look like coal, copper, iron and so on, but each gives up a **kingdom treasure**
-  instead. Each vein can be worked once. See [Hoards, Veins and Loot](Hoards-Veins-and-Loot).
+  instead. Each vein can be worked once. See [Hoards, Veins and Loot](Hoards-Veins-and-Loot.md).
 
 ### Clearing versus robbing
 
@@ -117,7 +117,7 @@ At the top of the screen is a **six-segment bossbar**: the Waking. It starts at 
 bell tolls** once per band, and every dead within 32 blocks **glows through the rock** for five
 seconds.
 
-Higher bands mean tougher, faster, more numerous dead. See [The Waking](The-Waking).
+Higher bands mean tougher, faster, more numerous dead. See [The Waking](The-Waking.md).
 
 ## Step 8: Decide how to leave
 
@@ -134,7 +134,7 @@ home. You have 15 seconds to step through. Same reward as walking out, but quick
 
 **C. Go deeper.** Win the gatehouse's **objective** (put down the gatekeepers, or hold the gate) and
 the bars lift like a portcullis. Step through and fall into the next kingdom. At tier 1, the second
-hold ends in **the Throne**. See [Kings, Seals and Tiers](Kings-Seals-and-Tiers).
+hold ends in **the Throne**. See [Kings, Seals and Tiers](Kings-Seals-and-Tiers.md).
 
 > **Important:** Walking out is **final for tonight's delve**. Once you've gone home, that ring won't
 > let you back in. Your friends below can carry on without you.
@@ -143,7 +143,7 @@ hold ends in **the Throne**. See [Kings, Seals and Tiers](Kings-Seals-and-Tiers)
 
 Back at the hearth, hold your kingdom treasures out to **the Assayer** and right-click. They're bought
 on the spot for **Crowns**, which go into your **purse**. Spend Crowns at **the Provisioner** for food,
-arrows and torches, and at other factors once they arrive. See [Crowns and Factors](Crowns-and-Factors).
+arrows and torches, and at other factors once they arrive. See [Crowns and Factors](Crowns-and-Factors.md).
 
 ## If you fall below
 
@@ -154,7 +154,7 @@ name glowing red over it through the walls.
 **You're still part of the delve.** You don't need to strike the bell again: your ring's shaft stays
 open, so walk back in and fall. You land in Hold I and can pass through every Waygate your party has
 already opened. Find your bones and right-click the head to get your things back. The Waking kept climbing while you were gone, though. See
-[Death, Remains and Dawn](Death-Remains-and-Dawn).
+[Death, Remains and Dawn](Death-Remains-and-Dawn.md).
 
 ---
 
@@ -170,4 +170,4 @@ already opened. Find your bones and right-click the head to get your things back
 - [ ] Walk back out, or strike the arch bell and hold out
 - [ ] Sell your haul to the Assayer
 
-Next: [Anatomy of a Delve](Anatomy-of-a-Delve)
+Next: [Anatomy of a Delve](Anatomy-of-a-Delve.md)

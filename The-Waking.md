@@ -80,4 +80,4 @@ Most dungeon modes push players out with a hard countdown. The Waking does the o
 gets harder, the exit doesn't get closer**. You're never forced out (until dawn at 90 minutes). You
 just keep asking yourself whether your hearts and your nerve will hold one more band.
 
-Next: [The Bell](The-Bell)
+Next: [The Bell](The-Bell.md)

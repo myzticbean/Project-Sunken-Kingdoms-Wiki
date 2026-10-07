@@ -80,4 +80,4 @@ has.
 - `death.remains: false`: dying **deletes** your found loot outright, no remains.
 - `death.hard-mode`: dying also **destroys the gear you brought down**. Off by default.
 
-Next: [Kings, Seals and Tiers](Kings-Seals-and-Tiers)
+Next: [Kings, Seals and Tiers](Kings-Seals-and-Tiers.md)

@@ -1,3 +1,7 @@
+# Project Sunken Kingdoms Wiki
+
+Start at **[Home](Home.md)**.
+
 **[The Sunken Kingdoms](Home.md)**
 
 **The world**

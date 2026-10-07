@@ -84,4 +84,4 @@ server-wide. A new player joining months later finds a richer town than its foun
 | Heirlooms | wear them. They never break |
 | Seals | frame them |
 
-Next: [Ways to Play](Ways-to-Play)
+Next: [Ways to Play](Ways-to-Play.md)

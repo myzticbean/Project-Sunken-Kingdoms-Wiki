@@ -42,7 +42,7 @@ You spawn at **the hearth**, at the entrance of the Mouth:
 - **The wall**: floating inscriptions that tell you what to do in three couplets, plus the **records**
   (deepest hold, fastest Throne for each tier, highest band anyone walked out at) and the latest
   extractions by name.
-- **The factors**: villagers who trade with delvers. See [Crowns and Factors](Crowns-and-Factors).
+- **The factors**: villagers who trade with delvers. See [Crowns and Factors](Crowns-and-Factors.md).
 
 When you first join you get a short book, *The Wall*, with the same three couplets:
 
@@ -80,4 +80,4 @@ carries up a certain kingdom treasure, the factor who deals in it comes to Bellm
 player joining later finds a richer town than the founders had, and the town visibly grows because of
 what people did below.
 
-Next: [Your First Delve](Your-First-Delve)
+Next: [Your First Delve](Your-First-Delve.md)

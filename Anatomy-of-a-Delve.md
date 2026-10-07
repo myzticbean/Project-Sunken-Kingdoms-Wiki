@@ -86,7 +86,7 @@ carved. The kings built their Waygates as halls of dressed stone:
 - **No loot.** The gatehouse is an arena.
 
 When you enter, a purple bar appears and a title names the **objective**. See
-[Gate Objectives](Gate-Objectives).
+[Gate Objectives](Gate-Objectives.md).
 
 **Look through the arch.** A patch of the **next kingdom's rock** is set into the arch's frame, and
 the last two rooms before the gate are already cut in the next kingdom's deep stone. You can see
@@ -120,7 +120,7 @@ The last hold has no gatehouse. Its deepest room is **the Throne**: the king's c
 - Inside: an aisle between columns hung with banners, an honour guard of armoured statues, candles,
   braziers, and a **tiered dais** with a throne and the **King's Bell** hanging over the king's stand.
 
-See [Kings, Seals and Tiers](Kings-Seals-and-Tiers).
+See [Kings, Seals and Tiers](Kings-Seals-and-Tiers.md).
 
 ## The Tithe *(planned)*
 
@@ -150,7 +150,7 @@ never draw the same way again. Nothing carries over to the next delve.
 
 A delve lasts at most **90 minutes from the first fall**. That's the night. At dawn the way closes.
 You get warnings at 10 minutes and 2 minutes. This is a ceiling, not a pace: most delves end long
-before it. See [Death, Remains and Dawn](Death-Remains-and-Dawn).
+before it. See [Death, Remains and Dawn](Death-Remains-and-Dawn.md).
 
 ## Parties
 
@@ -165,4 +165,4 @@ by walking out through a homeward gate.
 - The delve ends when the list is empty, or at dawn. **Not** when everyone is dead: a party lying
   dead at the hearth still has a delve running below, its remains waiting and its clock rising.
 
-Next: [The Breath and the Seal](The-Breath-and-the-Seal)
+Next: [The Breath and the Seal](The-Breath-and-the-Seal.md)

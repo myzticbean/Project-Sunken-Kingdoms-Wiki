@@ -96,4 +96,4 @@ costs nothing.
 - **Cook.** Food doesn't heal below, but sprinting needs it.
 - **Mine the valley** for diamonds and gold. The tier 2 target is enchanted diamond and golden apples.
 
-Next: [Glossary](Glossary)
+Next: [Glossary](Glossary.md)

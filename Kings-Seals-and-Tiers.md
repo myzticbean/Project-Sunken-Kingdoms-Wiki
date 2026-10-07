@@ -121,4 +121,4 @@ that never set off a shrieker finds him rising calm.
 He was only put down. When the next gate opens, he rises from where he lay, and
 he's on his throne again.
 
-Next: [Crowns and Factors](Crowns-and-Factors)
+Next: [Crowns and Factors](Crowns-and-Factors.md)

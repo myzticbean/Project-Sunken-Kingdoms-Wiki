@@ -39,7 +39,7 @@ The charge lasts longer the higher the band, the deeper the hold, and the higher
 ## Changing your mind
 
 At any point, even mid-objective, you can **strike the arch's bell** instead. That drops the
-objective and starts a **Holdout** to go home. See [Getting Out](Getting-Out). It can't be taken
+objective and starts a **Holdout** to go home. See [Getting Out](Getting-Out.md). It can't be taken
 back: the hold gives up the way onward for good.
 
 ## Planned objectives
@@ -52,4 +52,4 @@ back: the hold gives up the way onward for good.
 > *The last faithful kept vigil fires at the gates, and a gate opens for the living who keep the
 > vigil.*
 
-Next: [Getting Out](Getting-Out)
+Next: [Getting Out](Getting-Out.md)

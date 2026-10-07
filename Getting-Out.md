@@ -104,4 +104,4 @@ At every gatehouse, you face the real choice:
 Everything you need to decide is in front of you: the far kingdom's rock in the arch, your bag in
 your inventory, your hearts on screen, the band on the bar.
 
-Next: [Death, Remains and Dawn](Death-Remains-and-Dawn)
+Next: [Death, Remains and Dawn](Death-Remains-and-Dawn.md)

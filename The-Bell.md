@@ -50,4 +50,4 @@ Because the Upper Half mirrors everything below, a player sitting at the hearth 
 night: a peal means someone is fighting their way out, a bright ring means they made it, a low ring
 means someone didn't.
 
-Next: [Gate Objectives](Gate-Objectives)
+Next: [Gate Objectives](Gate-Objectives.md)

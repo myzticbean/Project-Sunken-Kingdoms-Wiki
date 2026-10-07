@@ -100,7 +100,7 @@ them or make them greater.
 Ore is the one exception to "nothing breaks." Break an ore block and:
 
 - you get the **kingdom's own treasure** for that ore, not vanilla ore (see
-  [Hoards, Veins and Loot](Hoards-Veins-and-Loot))
+  [Hoards, Veins and Loot](Hoards-Veins-and-Loot.md))
 - the block **turns into the surrounding rock**. The vein is spent and can't be worked twice.
 - **Fortune** gives you more. **Silk Touch** is refused.
 - If your pick is too weak for the ore, the first swing rings off the rock: *"Too soft a pick for so
@@ -114,4 +114,4 @@ With no blocks to place, a one-way drop can trap you. Type **`/delve unstick`** 
 door of the room you're in. It has a 60-second cooldown and skips nothing, because the door is where
 you came from.
 
-Next: [The Dead](The-Dead)
+Next: [The Dead](The-Dead.md)

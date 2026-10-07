@@ -50,40 +50,40 @@ is time, breath and nerve.
 
 | If you want to... | Read |
 |---|---|
-| Know why any of this is happening | [The Story of the Sunken Kingdoms](The-Story) |
-| Meet the four kingdoms and their kings | [The Kingdoms](The-Kingdoms) |
-| Jump straight in | [Your First Delve](Your-First-Delve) |
-| Understand how a delve is put together | [Anatomy of a Delve](Anatomy-of-a-Delve) |
-| Know the rules of survival below | [The Breath and the Seal](The-Breath-and-the-Seal) |
-| Plan how to play tonight | [Ways to Play](Ways-to-Play) |
-| Look up a word | [Glossary](Glossary) |
+| Know why any of this is happening | [The Story of the Sunken Kingdoms](The-Story.md) |
+| Meet the four kingdoms and their kings | [The Kingdoms](The-Kingdoms.md) |
+| Jump straight in | [Your First Delve](Your-First-Delve.md) |
+| Understand how a delve is put together | [Anatomy of a Delve](Anatomy-of-a-Delve.md) |
+| Know the rules of survival below | [The Breath and the Seal](The-Breath-and-the-Seal.md) |
+| Plan how to play tonight | [Ways to Play](Ways-to-Play.md) |
+| Look up a word | [Glossary](Glossary.md) |
 
 ### The full guide, in order
 
 **The world**
-- [The Story of the Sunken Kingdoms](The-Story): the lore
-- [The Kingdoms](The-Kingdoms): Greenwood, Stonemark, the Hush, the Ashen Hold
-- [Bellmouth and the Cairn](Bellmouth-and-the-Cairn): the town, the hearth, the Mouth and its rings
+- [The Story of the Sunken Kingdoms](The-Story.md): the lore
+- [The Kingdoms](The-Kingdoms.md): Greenwood, Stonemark, the Hush, the Ashen Hold
+- [Bellmouth and the Cairn](Bellmouth-and-the-Cairn.md): the town, the hearth, the Mouth and its rings
 
 **How to play**
-- [Your First Delve](Your-First-Delve): a step-by-step walkthrough
-- [Anatomy of a Delve](Anatomy-of-a-Delve): holds, Waygates, gatehouses, the Throne
-- [The Breath and the Seal](The-Breath-and-the-Seal): health and the world's rules below
-- [The Dead](The-Dead): how the dead rise, chase, sleep, and what marks mean
-- [Hoards, Veins and Loot](Hoards-Veins-and-Loot): chests, robbing, kingdom ore, tagged items
-- [The Waking](The-Waking): the difficulty clock
-- [The Bell](The-Bell): what every toll means
-- [Gate Objectives](Gate-Objectives): what stands between you and the next hold
-- [Getting Out](Getting-Out): the free gate, the Holdout, the King's Bell
-- [Death, Remains and Dawn](Death-Remains-and-Dawn): what happens when it goes wrong
-- [Kings, Seals and Tiers](Kings-Seals-and-Tiers): the Throne fight and progression
-- [Crowns and Factors](Crowns-and-Factors): the town's economy
-- [Ways to Play](Ways-to-Play): sessions from 10 to 90 minutes, and tactics
+- [Your First Delve](Your-First-Delve.md): a step-by-step walkthrough
+- [Anatomy of a Delve](Anatomy-of-a-Delve.md): holds, Waygates, gatehouses, the Throne
+- [The Breath and the Seal](The-Breath-and-the-Seal.md): health and the world's rules below
+- [The Dead](The-Dead.md): how the dead rise, chase, sleep, and what marks mean
+- [Hoards, Veins and Loot](Hoards-Veins-and-Loot.md): chests, robbing, kingdom ore, tagged items
+- [The Waking](The-Waking.md): the difficulty clock
+- [The Bell](The-Bell.md): what every toll means
+- [Gate Objectives](Gate-Objectives.md): what stands between you and the next hold
+- [Getting Out](Getting-Out.md): the free gate, the Holdout, the King's Bell
+- [Death, Remains and Dawn](Death-Remains-and-Dawn.md): what happens when it goes wrong
+- [Kings, Seals and Tiers](Kings-Seals-and-Tiers.md): the Throne fight and progression
+- [Crowns and Factors](Crowns-and-Factors.md): the town's economy
+- [Ways to Play](Ways-to-Play.md): sessions from 10 to 90 minutes, and tactics
 
 **Reference**
-- [Glossary](Glossary)
-- [Commands and FAQ](Commands-and-FAQ)
-- [Development Status](Development-Status): what is built, what is planned
+- [Glossary](Glossary.md)
+- [Commands and FAQ](Commands-and-FAQ.md)
+- [Development Status](Development-Status.md): what is built, what is planned
 
 ---
 
