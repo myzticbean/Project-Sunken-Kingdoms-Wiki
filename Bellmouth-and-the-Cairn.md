@@ -1,6 +1,11 @@
 # Bellmouth and the Cairn
 
-The surface is where you prepare, trade, build and rest. The delve is where everything else happens.
+A town built on the doorstep of a tomb. A bell that hangs over the tavern fire and rings, unbidden,
+whenever someone dies below. A ring of wells cut into the side of a mountain, each one waiting to
+open.
+
+Bellmouth is where you sharpen, brew, trade, build and rest. The Cairn is where everything else
+happens.
 
 ## The valley
 

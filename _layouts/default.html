@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#0b0a09">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/crypt.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%23c8a45a' d='M16 3c-1 0-1.6.7-1.6 1.5v1.1C10 6.5 7.6 10.3 7.6 15v6L5 25h22l-2.6-4v-6c0-4.7-2.4-8.5-6.8-9.4V4.5C17.6 3.7 17 3 16 3zm-3 23.5a3 3 0 0 0 6 0z'/%3E%3C/svg%3E">
+</head>
+<body>
+  <div class="motes" aria-hidden="true">{% for i in (1..14) %}<span></span>{% endfor %}</div>
+
+  <header class="bar">
+    <a class="sigil" href="{{ '/' | relative_url }}">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3c-1 0-1.6.7-1.6 1.5v1.1C10 6.5 7.6 10.3 7.6 15v6L5 25h22l-2.6-4v-6c0-4.7-2.4-8.5-6.8-9.4V4.5C17.6 3.7 17 3 16 3zm-3 23.5a3 3 0 0 0 6 0z"/></svg>
+      <span>{{ site.title }}</span>
+    </a>
+    <nav class="bar-links">
+      <a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/The-Story.html' | relative_url }}"{% if page.url == "/The-Story.html" %} aria-current="page"{% endif %}>Lore</a>
+      <a href="{{ '/Your-First-Delve.html' | relative_url }}"{% if page.url == "/Your-First-Delve.html" %} aria-current="page"{% endif %}>First Delve</a>
+    </nav>
+  </header>
+
+  <div class="frame">
+    <aside class="index">
+      <details open>
+        <summary>Contents</summary>
+        <a class="home{% if page.url == '/' %} here{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+        {% for group in site.data.nav %}
+        <h3>{{ group.section }}</h3>
+        <ul>
+          {% for p in group.pages %}
+          <li><a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="here" aria-current="page"{% endif %}>{{ p.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </details>
+      <script>if (matchMedia('(max-width: 900px)').matches) document.querySelector('.index details').removeAttribute('open');</script>
+    </aside>
+
+    <main class="content">
+      {% unless page.url == "/" %}<a class="back" href="{{ '/' | relative_url }}">&larr; Home</a>{% endunless %}
+      {{ content }}
+    </main>
+  </div>
+
+  <footer class="foot">
+    <div class="toll" aria-hidden="true">✦ &nbsp; ✦ &nbsp; ✦</div>
+    <p><em>Nothing is a ticket and nothing is a tax. The only things you ever spend are time, breath and nerve.</em></p>
+    <p class="small"><a href="{{ '/' | relative_url }}">Home</a> · <a href="https://github.com/myzticbean/Project-Sunken-Kingdoms-Wiki">Source</a></p>
+  </footer>
+</body>
+</html>

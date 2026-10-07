@@ -1,10 +1,13 @@
 # The Kingdoms
 
-Four sunken kingdoms lie under the Cairn, and two more are rumoured. Each **hold** in a delve is one
-kingdom: its own rock, its own dead, its own hazard, its own ore, and its own king.
+Four kingdoms lie broken under the Cairn. Two more are only whispered about. Each one went down
+**whole**, with its own rock, its own dead, its own curse and its own king, and each one is still
+down there, exactly as it was the night the ground took it.
 
-Within one hold the rock is one rock. Between holds there is only dark, bridged by Waygates. So a
-single delve can take you from a drowned forest straight into a silent court.
+Each **hold** in a delve is one of them. Within a hold the rock is all one rock. Between holds there
+is nothing but the dark, bridged only by the Waygates. A single night's descent can take you from a
+drowned forest, through a mason's tomb, into a court where nothing has made a sound since the
+night it fell.
 
 | Kingdom | Look | King | First met in |
 |---|---|---|---|
@@ -25,9 +28,14 @@ decides whose Throne you face.
 
 > *A forest kingdom drowned in root and water.*
 
-The Greenwood went down with its trees. Its halls are caverns of moss and hanging roots, still pools
-and glow berries, with old brickwork half swallowed by green. It is the gentlest-looking kingdom and
-often the first one you see.
+The Greenwood went down with its trees still standing.
+
+They are standing yet. Roots as thick as ship's cables hang across the vaults. Moss has swallowed the
+old brickwork whole. Black pools lie so still you would swear they were glass, and glow berries hang
+over them like lanterns nobody lit. It is the gentlest-looking of the sunken kingdoms, and often the
+first one a delver sees.
+
+Do not let it fool you. The Greenwood's dead wait in the water, and its thorns are patient.
 
 **Hazard: thorn and web.** Sweet berry bushes grow in the flora and cobwebs gather in low corners.
 Thorns cut you and webs hold you in place while the dead close in. None of it is ever on the shortest
@@ -43,9 +51,13 @@ path between doors. You only step into it if you leave the path.
 | Rootbiter | cave spider |
 | **Rooted Thane** (wight) | armoured zombie |
 
-**The king: the Rooted King.** A towering zombie (1.6× size) crowned in gold, in chainmail, carrying
-an axe. His banners, candles and honour guard are green. His name is drawn each delve from an old
-pool: *Cenwulf, Eadric, Wulfhere, Aldhelm.*
+**The king: the Rooted King.** He waits on his dais in a hall hung with green banners, candles burning
+green at his feet, a silent honour guard of statues watching the aisle. When you come near, he rises
+out of the stone: half again the height of a man, a crown of tarnished gold on his brow, chainmail on
+his shoulders and an axe in his hand. *(A giant zombie, 1.6× size.)*
+
+Each night he answers to a different name, as though the halls cannot agree which of their kings he
+was: *Cenwulf, Eadric, Wulfhere, Aldhelm.*
 
 **Veins of the Greenwood**
 
@@ -66,9 +78,13 @@ pool: *Cenwulf, Eadric, Wulfhere, Aldhelm.*
 
 > *The masons' kingdom.*
 
-The Stonemark built in stone and was buried in it. Grey and tuff-banded caverns, terraces cut like
-quarry steps, and more surviving masonry than anywhere else. Its gatehouses and its Throne are the
-work of people who were proud of their walls.
+The Stonemark built in stone, and stone buried it.
+
+Its people were masons, and they were proud of their walls. The walls outlived them. Grey caverns
+banded with tuff, terraces cut like quarry steps, columns still standing where everything around them
+fell: more of the Stonemark's masonry survived the sinking than any other kingdom's. Its gatehouses
+are the finest below, and its dead still walk the halls they raised, as if the work were never
+finished.
 
 **Hazard: spikes.** Pointed dripstone stands on terrace edges and in the floors of pools. Fall off a
 ledge onto it, or wade into the wrong pool, and you will feel it.
@@ -82,7 +98,13 @@ ledge onto it, or wade into the wrong pool, and you will feel it.
 | Stonemite | silverfish (rare) |
 | **Hollow Warden** (wight) | armoured skeleton |
 
-**The king: the Hollow King.** A towering zombie in iron. Names: *Osric, Ceolwulf, Beornwulf, Ine.*
+**The king: the Hollow King.** Iron from crown to heel, half again the height of a man, and nothing
+left inside him but the habit of ruling. He rises from his dais the moment a delver nears, and when
+his strength begins to fail he calls his household up out of the floor to stand with him.
+*(A giant zombie in iron, 1.6× size.)*
+
+He is named, each night, from the old roll of the Stonemark's kings: *Osric, Ceolwulf, Beornwulf,
+Ine.*
 
 **Veins of the Stonemark**
 
@@ -105,9 +127,16 @@ The first Black Steel ever carried up out of the Stonemark brings **the Mason** 
 
 > *A court that swore silence, and was eaten by it.*
 
-The Hush is the **stealth kingdom**. Its halls are dark and grown over with sculk. Its dead make no
-sound until they have found you, and they barely see or hear anything anymore. **But the sculk still
-listens for them.**
+The Hush swore an oath of silence. The silence kept its side of the bargain.
+
+Its halls are black and furred with sculk, and nothing in them makes a sound. Not the dead. Not the
+water. Not the stone. The court's dead have gone deaf and dim with the long dark; they barely see you,
+and they cannot hear you at all.
+
+**But the sculk can.** It listens for them still: every footstep, every falling pebble, every held
+breath. And when it hears you, it tells them where you are.
+
+The Hush is the **stealth kingdom**. Here you play quiet, or you play against everything at once.
 
 **Hazard and rule: the Listening.** This is the Hush's whole personality:
 
@@ -137,9 +166,15 @@ loud and fight everything at once.
 | Listener | enderman |
 | **Silent Herald** (wight) | wither skeleton |
 
-**The king: the Silent King.** A **warden**, and the only warden in the game. He sits under his bell
-in the Hush's Throne, and he **remembers**: he goes first for the delver who made the sculk cry most.
-A party that never set off a shrieker finds him rising calm. Names: *Aethelred, Edwy, Sigeberht.*
+**The king: the Silent King.** He was the one who swore the oath of silence, and he is the one who
+kept it longest. Now he sits under his bell in the dark at the bottom of the Hush, blind, deaf, and
+**listening through the sculk**.
+
+He is a **warden**, the only warden in all the sunken kingdoms. And he **remembers**. Every scream of
+every shrieker reaches him. When he rises, he goes first for the delver who made the sculk cry the
+most. A party that crossed his whole kingdom without a sound finds him rising calm.
+
+His names: *Aethelred, Edwy, Sigeberht.*
 
 **Veins of the Hush**
 
@@ -159,8 +194,15 @@ A party that never set off a shrieker finds him rising calm. Names: *Aethelred, 
 
 > *A kingdom burned down into the underworld.*
 
-The oldest and deepest kingdom. Its rock is nether rock: netherrack, basalt and blackstone, magma
-floors and lava pockets. This is where **the only fire left in the world** burns.
+The oldest of them. The deepest.
+
+The others sank. The Ashen Hold **burned** as it sank, and it did not stop burning when the ground
+closed over it. It burned down through the earth and into the underworld itself, and its rock is
+underworld rock now: netherrack and basalt and blackstone, floors of glowing magma, lava welling up
+in the low places.
+
+This is where **the only fire left in the world** burns. Every brewing stand in Bellmouth is lit from
+it, one ember at a time, carried up in a delver's hands.
 
 **Hazard: fire.** Magma on the floors near lava, and lava pockets carved below floor level. At tier
 3, lava pools crossed on stepping stones are part of the terrain.
@@ -175,7 +217,11 @@ floors and lava pockets. This is where **the only fire left in the world** burns
 | Ashboar | hoglin |
 | **Ashen Housecarl** (wight) | piglin brute |
 
-**The king: the Ashen King.** A **wither**. Names: *Penda, Caedwalla, Offa.*
+**The king: the Ashen King.** What the fire left of him is not a man anymore. Three skulls, a spine
+of char, and a hunger that rises out of the throne at the bottom of the world. He is a **wither**,
+and his Throne is the last and deepest a delver can reach.
+
+His names, when anyone still dares to say them: *Penda, Caedwalla, Offa.*
 
 **Veins of the Ashen Hold**
 

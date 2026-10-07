@@ -1,0 +1,25 @@
+- section: The World
+  pages:
+    - { title: The Story, url: /The-Story.html }
+    - { title: The Kingdoms, url: /The-Kingdoms.html }
+    - { title: Bellmouth and the Cairn, url: /Bellmouth-and-the-Cairn.html }
+- section: How to Play
+  pages:
+    - { title: Your First Delve, url: /Your-First-Delve.html }
+    - { title: Anatomy of a Delve, url: /Anatomy-of-a-Delve.html }
+    - { title: The Breath and the Seal, url: /The-Breath-and-the-Seal.html }
+    - { title: The Dead, url: /The-Dead.html }
+    - { title: Hoards, Veins and Loot, url: /Hoards-Veins-and-Loot.html }
+    - { title: The Waking, url: /The-Waking.html }
+    - { title: The Bell, url: /The-Bell.html }
+    - { title: Gate Objectives, url: /Gate-Objectives.html }
+    - { title: Getting Out, url: /Getting-Out.html }
+    - { title: Death, Remains and Dawn, url: /Death-Remains-and-Dawn.html }
+    - { title: Kings, Seals and Tiers, url: /Kings-Seals-and-Tiers.html }
+    - { title: Crowns and Factors, url: /Crowns-and-Factors.html }
+    - { title: Ways to Play, url: /Ways-to-Play.html }
+- section: Reference
+  pages:
+    - { title: Glossary, url: /Glossary.html }
+    - { title: Commands and FAQ, url: /Commands-and-FAQ.html }
+    - { title: Development Status, url: /Development-Status.html }
