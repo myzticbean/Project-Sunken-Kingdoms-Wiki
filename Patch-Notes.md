@@ -1,7 +1,7 @@
 # Patch Notes
 
-What changed below, newest first. Each version has a part for delvers and a part for whoever runs
-the server.
+What changed below, newest first. Each version has a part for every delver, and an **Under the
+hood** part for the curious: the numbers, the odds and the work done to keep the halls smooth.
 
 ## 0.0.2 — coming
 
@@ -36,15 +36,23 @@ in, and luck decides how much:
 A flaw only costs you while you wear or hold the piece. Heirlooms also no longer waste a roll on
 Unbreaking or Mending: they never wear.
 
-### For server owners
+### Under the hood
 
-- New dungeon generation is on by default (`world-gen-v2: true` in `config.yml`; needs a restart to
-  change).
-- `loot.yml` is replaced on the next start; your old copy is kept beside it as `loot.yml.v<old version>`. Tune
-  heirloom luck with `heirloom.blessed-chance` and `heirloom.bane-chance`.
-- The jar is now `SunkenKingdoms.jar`. Delete any older `SunkenKingdoms-<version>.jar` from
-  `plugins/` when updating.
-- The lobby valley can now be generated with `/delve admin survey` (in progress).
+- **Smoother building.** A hold's rooms are now carved in parallel instead of one after another,
+  and the blocks are written a slice at a time, spread across ticks, so a new hold no longer stalls
+  the server when a gate opens. Chunks a hold needs are loaded gradually rather than all at once,
+  and nothing (clearing old delves, waking the dead, rising spawns) forces a chunk to load on the
+  spot any more. Fewer lag spikes when you drop in.
+- **Room numbers.** Rooms are 64 blocks across and up to 48 tall (they were 48 by 36), with the roof
+  peaking about 40 above the doorways. Tunnels are 20 long instead of 12, never narrower or lower
+  than 3 by 3, so even the tallest dead fit through. The fall into a room is about 40 blocks.
+- **The dead see further.** Bigger rooms meant longer sight: a dead now notices you at 48 blocks and
+  calls its room's others from up to 128.
+- **Heirloom odds.** Every heirloom first rolls blessed, at 15%. If not, it rolls flawed by tier:
+  50% at tier 1, 40% at tier 2, 30% at tier 3, 20% from tier 4 on. Overall that is roughly 42%,
+  34%, 25% and 17% flawed. A gift's strength rolls within a range that grows with the hold's
+  depth; a flawed piece always takes the top of it. Flaws are attribute modifiers on the item, which
+  is why they only apply while it is worn or held, and why they stack across pieces.
 
 ## 0.0.1 — 2026-10-04
 
