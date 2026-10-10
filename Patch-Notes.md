@@ -1,30 +1,34 @@
 # Patch Notes
 
-What changed below, newest first. Each version has a part for every delver, and an **Under the
-hood** part for the curious: the numbers, the odds and the work done to keep the halls smooth.
+Every update, newest first. Each one opens with what every delver will feel, then lifts the lid in
+**Under the hood**: the numbers, the odds and the work that keeps the halls smooth.
 
-## 0.0.2 — coming
+## 0.0.2 — 2026-10-10
 
 ### For delvers
 
-**The halls are rebuilt.** The kingdoms' caverns are wider and taller now, up to 48 blocks under a
-domed roof, their walls stepped into ledges and overhangs, their floors on three or four levels.
-Most hold a pool at the bottom; some are dry. The dead have more room to come at you from, and you
-have more places to stand.
+**We tore the halls down and raised them again, bigger.** Step through a gate and look up. The
+kingdoms' caverns now climb as high as 48 blocks to a domed roof, their walls stepped into ledges
+and overhangs, their floors broken across three and four levels. Most cradle a pool at the bottom;
+some lie bone dry. The dead have more ways to come at you. You have more places to make your stand.
+This is the biggest change the deep has seen yet.
 
-**The companies came down with them.** The tunnels between rooms are longer and bend, and the
-companies who stripped each kingdom as it sank left their timber in them: frames propping the rock,
-half of them broken, a lantern lying lit where a beam came down. You'll find their works thickest
-near the surface and none at all on the road to a throne. Watch for cart lines, collapses, small
-dead portals at the cave doors, and geysers.
+**The companies left their mark.** The tunnels between rooms run longer now, and they bend, so you
+never quite see what waits past the turn. The companies who stripped each kingdom as it sank left
+their timber behind: frames still propping the rock, half of them snapped, a lantern lying lit where
+a beam came down. Their works crowd the shallows and thin out as you descend, and on the road to a
+throne there is nothing at all. Watch for cart lines, collapses, small dead portals at the cave
+doors, and geysers that burst from the floor.
 
-**Heirlooms carry their kingdom.** Every heirloom now holds something of the kingdom it was found
-in, and luck decides how much:
+**Every heirloom now carries its kingdom.** This is the one we're proudest of. Every heirloom you
+pull from the deep holds something of the kingdom that drowned it, and luck decides how much:
 
-- **Blessed**, about one in seven: both of its kingdom's gifts and no flaw.
+- **Blessed**, about one in seven: both of its kingdom's gifts, and no flaw. When you find one,
+  you'll know.
 - **Plain**: one gift.
-- **Flawed**: one gift at its strongest, with a mild flaw of the kingdom that drowned it. Flaws are
-  commonest in the shallow kingdoms, which fell last and poorest, and rarer the deeper you go.
+- **Flawed**: one gift at its very strongest, paid for with a mild flaw of the kingdom that drowned
+  it. Flaws haunt the shallow kingdoms, which fell last and poorest, and grow rarer the deeper you
+  dare.
 
 | Kingdom | Gifts | Flaw |
 |---|---|---|
@@ -33,29 +37,34 @@ in, and luck decides how much:
 | The Hush | quicker while sneaking, or falls from higher without harm | one heart less |
 | The Ashen Hold | the flames go out sooner, or faster on your feet | a little slower to swing |
 
-A flaw only costs you while you wear or hold the piece. Heirlooms also no longer waste a roll on
-Unbreaking or Mending: they never wear.
+A flaw only costs you while you wear or hold the piece, so the choice is yours. A little speed for a
+lot of health? Your call. And because heirlooms never wear, they no longer waste a roll on
+Unbreaking or Mending. Every roll counts now.
 
-**Hoards hold what sells.** The dead no longer keep bread, beef, arrows, torches, bones or string:
-those are what Crowns are for, and the Provisioner has them. A hoard now holds ingots, raw gold,
-coal, emeralds, now and then a diamond, spectral arrows and bottles o' enchanting, and the holds' own
-stew to eat. A chest's prize can now be a shield, a bundle of spectral arrows or bottles o'
-enchanting as well as a potion or a golden apple.
+**Hoards worth the robbing.** The dead no longer sit on bread, beef, arrows, torches, bones or
+string. That's what your Crowns are for, and the Provisioner stocks the lot. Break into a hoard now
+and you'll find ingots, raw gold, coal, emeralds, now and then a diamond, spectral arrows, bottles
+o' enchanting, and the holds' own stew to keep you on your feet. A chest's prize can now be a
+shield, a bundle of spectral arrows or bottles o' enchanting, right alongside the potions and
+golden apples you already chase.
 
-**Nothing to carry back.** A potion or a stew found below leaves no empty bottle or bowl behind.
+**Travel light.** Drink a potion or finish a stew below and there's no empty bottle or bowl left
+clogging your pack.
 
-**Your purse stays put.** It can no longer be thrown by accident. It still goes in a chest, and still
-falls with you.
+**Your fortune stays in your hands.** The purse can no longer be thrown, so no more fumbling your
+Crowns onto the floor. It still goes in a chest, and it still falls with you.
 
 ### Under the hood
+
+Bigger halls only matter if they run smooth. Here's how we made that happen.
 
 - **Smoother building.** A hold's rooms are now carved in parallel instead of one after another,
   and the blocks are written a slice at a time, spread across ticks, so a new hold no longer stalls
   the server when a gate opens. Chunks a hold needs are loaded gradually rather than all at once,
   and nothing (clearing old delves, waking the dead, rising spawns) forces a chunk to load on the
   spot any more. Fewer lag spikes when you drop in.
-- **Lighter server.** The dead crowding a tunnel no longer push each other in every pairing (two
-  collisions per mob per tick, not eight). Dropped items and experience gather from further apart, so
+- **Lighter server.** The dead crowding a tunnel no longer push each other in every pairing: two
+  collisions per mob per tick, not eight. Dropped items and experience gather from further apart, so
   fewer of them lie about, and missed arrows sink into the rock after 15 seconds instead of a minute.
   The halls no longer make every mob rethink its path while a hold is being written. Inside the
   dungeon the server sends you 6 chunks around you, not 10: nothing further can be seen in a cave.
@@ -79,5 +88,5 @@ falls with you.
 
 ## 0.0.1 — 2026-10-04
 
-The first playable build: Bellmouth and its wells, three tiers of sunken kingdoms with their kings,
-the Hush's Listening, kingdom veins, Crowns, the factors and the purse.
+Where it all began. The first playable build: Bellmouth and its wells, three tiers of sunken
+kingdoms with their kings, the Hush's Listening, kingdom veins, Crowns, the factors and the purse.
