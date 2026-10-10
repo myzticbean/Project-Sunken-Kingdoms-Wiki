@@ -43,6 +43,14 @@ Unbreaking or Mending: they never wear.
   the server when a gate opens. Chunks a hold needs are loaded gradually rather than all at once,
   and nothing (clearing old delves, waking the dead, rising spawns) forces a chunk to load on the
   spot any more. Fewer lag spikes when you drop in.
+- **Lighter server.** The dead crowding a tunnel no longer push each other in every pairing (two
+  collisions per mob per tick, not eight). Dropped items and experience gather from further apart, so
+  fewer of them lie about, and missed arrows sink into the rock after 15 seconds instead of a minute.
+  The halls no longer make every mob rethink its path while a hold is being written. Inside the
+  dungeon the server sends you 6 chunks around you, not 10: nothing further can be seen in a cave.
+- **The dead stay awake in big rooms.** A dead now stays fully active up to 48 blocks from you
+  (was 32), the same distance it can notice you from, so one that has seen you never dozes off
+  across a wide room.
 - **Room numbers.** Rooms are 64 blocks across and up to 48 tall (they were 48 by 36), with the roof
   peaking about 40 above the doorways. Tunnels are 20 long instead of 12, never narrower or lower
   than 3 by 3, so even the tallest dead fit through. The fall into a room is about 40 blocks.
