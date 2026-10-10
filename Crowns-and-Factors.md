@@ -18,7 +18,8 @@ potions, arrows, building stone. A rich player is a player with more potions. No
 - A **Crown** is a gold nugget with a glint, made only by the Assayer.
 - A **Crown Bar** is a gold ingot worth **100 Crowns**.
 - You carry coin in a **purse**: a gold bundle that holds any number of Crowns in one slot. Coin you
-  pick up drops into it. A factor's trade draws from it.
+  pick up drops into it. A factor's trade draws from it. It can't be thrown, so a stray key never
+  spills it, but it still goes into a chest, and it falls with you if you die.
 - Crowns are **real items**. No bank, no balance command, no `/pay`. Hand them over, chest them, lose
   them, like anything else.
 - Crowns don't craft into plain gold, and they're never found below.

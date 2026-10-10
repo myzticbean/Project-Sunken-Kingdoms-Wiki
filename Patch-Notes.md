@@ -36,6 +36,17 @@ in, and luck decides how much:
 A flaw only costs you while you wear or hold the piece. Heirlooms also no longer waste a roll on
 Unbreaking or Mending: they never wear.
 
+**Hoards hold what sells.** The dead no longer keep bread, beef, arrows, torches, bones or string:
+those are what Crowns are for, and the Provisioner has them. A hoard now holds ingots, raw gold,
+coal, emeralds, now and then a diamond, spectral arrows and bottles o' enchanting, and the holds' own
+stew to eat. A chest's prize can now be a shield, a bundle of spectral arrows or bottles o'
+enchanting as well as a potion or a golden apple.
+
+**Nothing to carry back.** A potion or a stew found below leaves no empty bottle or bowl behind.
+
+**Your purse stays put.** It can no longer be thrown by accident. It still goes in a chest, and still
+falls with you.
+
 ### Under the hood
 
 - **Smoother building.** A hold's rooms are now carved in parallel instead of one after another,
@@ -61,6 +72,10 @@ Unbreaking or Mending: they never wear.
   34%, 25% and 17% flawed. A gift's strength rolls within a range that grows with the hold's
   depth; a flawed piece always takes the top of it. Flaws are attribute modifiers on the item, which
   is why they only apply while it is worn or held, and why they stack across pieces.
+- **Hoard pools.** Bulk rolls by weight: iron ingots 8, copper ingots 7, gold ingots 6, stew 5, raw
+  gold 4, coal 4, emeralds 3, spectral arrows 3, bottles o' enchanting 3, healing potions 2,
+  diamond 1. Everything there but the potions, the stew, the arrows and the bottles sells to the
+  Assayer. A chest's prize is now about half potions.
 
 ## 0.0.1 — 2026-10-04
 

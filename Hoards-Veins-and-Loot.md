@@ -63,7 +63,7 @@ night:
 |---|---|
 | Hold I (any tier) | at least **two healing potions** across its hoards |
 | The gilded chest | one **heirloom** or one high-level enchanted piece |
-| Every chest | one **enchanted piece** (likelier deeper), or one prize: a golden apple, a strong healing or splash potion, strength, regeneration, swiftness, or rarely a **totem** |
+| Every chest | one **enchanted piece** (likelier deeper), or one prize: a golden apple, a strong healing or splash potion, strength, regeneration, swiftness, a shield, spectral arrows, bottles o' enchanting, or rarely a **totem** |
 | Every hold | some **fire goods** (nether wart, blaze rods, glowstone, magma cream), so you can brew above in a world without a Nether |
 | The treasury | one high-value roll |
 | A wight | one kingdom treasure |
