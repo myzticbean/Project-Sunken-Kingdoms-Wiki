@@ -11,7 +11,6 @@ Every update, newest first. Each one opens with what every delver will feel, the
 kingdoms' caverns now climb as high as 48 blocks to a domed roof, their walls stepped into ledges
 and overhangs, their floors broken across three and four levels. Most cradle a pool at the bottom;
 some lie bone dry. The dead have more ways to come at you. You have more places to make your stand.
-This is the biggest change the deep has seen yet.
 
 **The companies left their mark.** The tunnels between rooms run longer now, and they bend, so you
 never quite see what waits past the turn. The companies who stripped each kingdom as it sank left
@@ -20,11 +19,10 @@ a beam came down. Their works crowd the shallows and thin out as you descend, an
 throne there is nothing at all. Watch for cart lines, collapses, small dead portals at the cave
 doors, and geysers that burst from the floor.
 
-**Every heirloom now carries its kingdom.** This is the one we're proudest of. Every heirloom you
-pull from the deep holds something of the kingdom that drowned it, and luck decides how much:
+**Every heirloom now carries its kingdom.** Every heirloom you pull from the deep holds something
+of the kingdom that drowned it, and luck decides how much:
 
-- **Blessed**, about one in seven: both of its kingdom's gifts, and no flaw. When you find one,
-  you'll know.
+- **Blessed**, about one in seven: both of its kingdom's gifts, and no flaw.
 - **Plain**: one gift.
 - **Flawed**: one gift at its very strongest, paid for with a mild flaw of the kingdom that drowned
   it. Flaws haunt the shallow kingdoms, which fell last and poorest, and grow rarer the deeper you
@@ -37,9 +35,8 @@ pull from the deep holds something of the kingdom that drowned it, and luck deci
 | The Hush | quicker while sneaking, or falls from higher without harm | one heart less |
 | The Ashen Hold | the flames go out sooner, or faster on your feet | a little slower to swing |
 
-A flaw only costs you while you wear or hold the piece, so the choice is yours. A little speed for a
-lot of health? Your call. And because heirlooms never wear, they no longer waste a roll on
-Unbreaking or Mending. Every roll counts now.
+A flaw only costs you while you wear or hold the piece, so whether it's worth it is up to you. And
+because heirlooms never wear, they no longer waste a roll on Unbreaking or Mending.
 
 **Hoards worth the robbing.** The dead no longer sit on bread, beef, arrows, torches, bones or
 string. That's what your Crowns are for, and the Provisioner stocks the lot. Break into a hoard now
