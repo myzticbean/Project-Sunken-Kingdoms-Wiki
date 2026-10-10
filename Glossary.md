@@ -21,7 +21,7 @@
 | **Gatehouse** | the one built room in each hold, holding the barred Waygate onward |
 | **Gilded chest** | the bright copper chest in each hold's treasury. Holds an heirloom or a high enchant |
 | **Hearth, the** | spawn: a fire under the Upper Half, the wall and the factors |
-| **Heirloom** | named gear with special bonuses. Unbreakable. No anvil, grindstone or smithing table will take it. Never for sale |
+| **Heirloom** | named gear with special bonuses, and a gift of the kingdom it came from: blessed, plain or flawed, by luck (see [Patch Notes](Patch-Notes.md)). Unbreakable. No anvil, grindstone or smithing table will take it. Never for sale |
 | **Hoard** | a chest placed below. Barrels and pots are not hoards |
 | **Hold** | one sunken kingdom: one generated cave network, one stage of a delve |
 | **Holdout** | breaking a gate homeward: strike its bell and hold the threshold while waves rise |

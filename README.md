@@ -28,3 +28,4 @@ Start at **[Home](Home.md)**.
 - [Glossary](Glossary.md)
 - [Commands and FAQ](Commands-and-FAQ.md)
 - [Development Status](Development-Status.md)
+- [Patch Notes](Patch-Notes.md)
