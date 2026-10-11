@@ -25,8 +25,8 @@ Bell** itself.
 
 **The Bellringer is waiting by the hearth.** Whoever rings the Upper Half hears what each delver
 brings home, and now they will teach you what it is worth. Right-click the Bellringer, spend an Echo
-on a rank, and carry what you have learned into the dark. A Way's first rank goes straight into a
-free slot. Two Ways to begin, a third for every king's
+on a rank, and carry what you have learned into the dark. Click a learned Way to carry it, and it
+shines, its ranks with it. Two Ways to begin, a third for every king's
 Seal you claim, six at most. Carried Ways are yours from the moment you fall until you walk out.
 
 **The Ways of the Breath.** The first branch, four Ways:
