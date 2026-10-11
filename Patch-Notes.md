@@ -26,7 +26,7 @@ Bell** itself.
 **The Bellringer is waiting by the hearth.** Whoever rings the Upper Half hears what each delver
 brings home, and now they will teach you what it is worth. Right-click the Bellringer, spend an Echo
 on a rank, and carry what you have learned into the dark. Click a learned Way to carry it, and it
-shines, its ranks with it. Two Ways to begin, a third for every king's
+shines. Your first Way, Dash, opens at level 2: one delve to learn the deep on your own feet first. Two Ways to begin, a third for every king's
 Seal you claim, six at most. Carried Ways are yours from the moment you fall until you walk out.
 
 **The Ways of the Breath.** The first branch, four Ways:
@@ -42,7 +42,8 @@ Seal you claim, six at most. Carried Ways are yours from the moment you fall unt
 
 **Nerve.** Below, your food bar becomes your nerve. Ways and sprinting spend it, it comes back on its
 own if you give it a moment, and food tops it up: bread 4, cooked meat 6, stews 8, golden carrots
-10, a golden apple the whole bar. Every food tells you what it gives, right at the top of its lore.
+10, a golden apple the whole bar. Every food tells you what it gives, right at the top of its lore,
+and it all stacks to 99, wherever you got it.
 Nothing else drains it. Above, in the valley, there is no hunger at all.
 
 **Run for it.** Below, the deep slows a walking delver: walking is a fifth slower. A sprint shakes
@@ -58,8 +59,8 @@ falling quiet all hold the same way; a refusal shows once, briefly.
 
 ### Under the hood
 
-- **The level curve.** Level L to L + 1 takes 20 + 10 × L Echoes: 20 for your first level, 110 from
-  level 9 to 10. Levels stop at 50; Echoes past it still count toward your total.
+- **The level curve.** Every delver starts at level 1. Level L to L + 1 takes 20 + 10 × L Echoes:
+  30 to reach level 2, 110 from level 9 to 10. Levels stop at 50; Echoes past it still count toward your total.
 - **What each deed is worth**, before the tier: a common dead 1, a marked dead 2, a Wight 8, an
   Oathbound 15, a king 60. A met gate objective gives 15 to every delver in the hold. The dead's
   Echoes are split by the damage each delver dealt. Then the tier multiplies it: ×1, ×1.5, ×2, ×2.5
@@ -73,7 +74,7 @@ falling quiet all hold the same way; a refusal shows once, briefly.
 
   | Way | Opens at level | Nerve per use | Cooldown |
   |---|---|---|---|
-  | Dash | 1, 4, 8, 14, 20 | 4, 4, 3, 3, 3 | 1.5 s |
+  | Dash | 2, 4, 8, 14, 20 | 4, 4, 3, 3, 3 | 1.5 s |
   | Catch | 3, 9, 16 | 2 | 3 s |
   | Lunge | 7, 15, 25 | 4 | 4 s |
   | Second Wind | 5, 12, 22 | passive | |
