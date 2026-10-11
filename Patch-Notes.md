@@ -3,6 +3,84 @@
 Every update, newest first. Each one opens with what every delver will feel, then lifts the lid in
 **Under the hood**: the numbers, the odds and the work that keeps the halls smooth.
 
+## 0.0.3 — coming soon
+
+Still being forged and tested in the halls. Everything below is planned for 0.0.3, and the numbers
+may shift before it lands.
+
+### For delvers
+
+**Everything you do down there now counts.** Meet **Echoes**. Every dead you put down, every gate
+you open, every walk home adds to a level that is yours forever. It lives on the XP bar, in every
+world, and nothing takes it from you. Hit hard and you hear more: when several delvers bring one of
+the dead down, each hears their share of the damage they dealt. Vanilla experience is gone: no
+orbs, no bottles o' enchanting, nothing to farm. The enchanting table and the anvil still read your
+level, and they spend none of it.
+
+**Hear it ring.** When you reach a new level, it rings out like a bell for everyone near you. And
+your level travels with you, worn by your name in its bell metal: **Tin**, then **Copper**,
+**Verdigris**, **Silver** and **Gold**, ten levels apiece, until at level 50 you wear **the Great
+Bell** itself.
+
+**The Bellringer is waiting by the hearth.** Whoever rings the Upper Half hears what each delver
+brings home, and now they will teach you what it is worth. Right-click the Bellringer, spend an Echo
+on a rank, and carry what you have learned into the dark. Two Ways to begin, a third for every king's
+Seal you claim, six at most. Carried Ways are yours from the moment you fall until you walk out.
+
+**The Ways of the Breath.** The first branch, four Ways:
+
+- **Dash.** Jump, then jump again in mid-air, and you launch along your look. Five ranks, each one
+  faster, and the last gives you a second dash before you land.
+- **Catch.** Sneak in mid-air and you drift down on Slow Falling for 2, 3, then 4 seconds. At its
+  third rank, land inside it and the fall does you no harm.
+- **Lunge.** Right-click with a sword in hand and you thrust forward. Your first hit within a second
+  lands harder: +20%, +35%, then +50%.
+- **Second Wind.** Every dead you damaged gives back Nerve when it is put down: 1, 2, then 3. At its
+  third rank your Nerve returns a quarter faster.
+
+**Nerve.** Below, your food bar becomes your nerve. Ways and sprinting spend it, it comes back on its
+own if you give it a moment, and food tops it up: bread 4, cooked meat 6, stews 8, golden carrots
+10, a golden apple the whole bar. Every food tells you what it gives, right at the top of its lore.
+Nothing else drains it. Above, in the valley, there is no hunger at all.
+
+**Run for it.** Below, the deep slows a walking delver: walking is a fifth slower. A sprint shakes
+it off and carries you at full pace, and it costs nerve. A full bar buys about five and a half seconds of hard running,
+so choose when to break into a sprint. Run dry and your legs won't carry you until your nerve
+comes back.
+
+**Words that hold still.** A season's title, its subtitle and the line over your hotbar now arrive
+together and fade together, held for 6.5 seconds, with no flicker. Objectives, kings and the hall
+falling quiet all hold the same way; a refusal shows once, briefly.
+
+**Your sidebar** now shows your Crowns and any Echoes you have waiting to spend.
+
+### Under the hood
+
+- **The level curve.** Level L to L + 1 takes 20 + 10 × L Echoes: 20 for your first level, 110 from
+  level 9 to 10. Levels stop at 50; Echoes past it still count toward your total.
+- **What each deed is worth**, before the tier: a common dead 1, a marked dead 2, a Wight 8, an
+  Oathbound 15, a king 60. A met gate objective gives 15 to every delver in the hold. The dead's
+  Echoes are split by the damage each delver dealt. Then the tier multiplies it: ×1, ×1.5, ×2, ×2.5
+  for tiers 1 to 4. Walking out alive adds 20% of what you heard that delve on top.
+- **Nerve, in numbers.** 20 points. One comes back every 1.5 seconds, paused for 2 seconds after any
+  Way and for as long as you sprint. Sprinting spends one point every 0.4 seconds, and vanilla stops
+  the sprint at 6 points, so a full bar sprints 14 points: 5.6 seconds. Walking below is −20% speed;
+  sprinting adds that 20% back, so a sprint below runs at vanilla sprinting speed, 1.6 times your
+  walk instead of 1.3.
+- **Way costs and cooldowns.**
+
+  | Way | Opens at level | Nerve per use | Cooldown |
+  |---|---|---|---|
+  | Dash | 1, 4, 8, 14, 20 | 4, 4, 3, 3, 3 | 1.5 s |
+  | Catch | 3, 9, 16 | 2 | 3 s |
+  | Lunge | 7, 15, 25 | 4 | 4 s |
+  | Second Wind | 5, 12, 22 | passive | |
+
+- **Dash and falling.** The second jump borrows vanilla's flight toggle, which would normally spare
+  you all fall damage. Fall past your safe distance and the dash is put away, so a long drop hurts
+  exactly as it should.
+- **Lighter hoards.** Bottles o' enchanting no longer turn up below, in hoards or as a chest's prize.
+
 ## 0.0.2 — 2026-10-10
 
 ### For delvers
