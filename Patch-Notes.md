@@ -57,6 +57,10 @@ falling quiet all hold the same way; a refusal shows once, briefly.
 
 **Your sidebar** now shows your Crowns and any Echoes you have waiting to spend.
 
+**One bell, one side.** No more friendly fire. A wild swing in a crowded tunnel, a stray arrow
+across the hall: none of it finds another delver now, below or in the valley. Every delver goes
+down under the same bell.
+
 ### Under the hood
 
 - **The level curve.** Every delver starts at level 1. Level L to L + 1 takes 20 + 10 × L Echoes:
