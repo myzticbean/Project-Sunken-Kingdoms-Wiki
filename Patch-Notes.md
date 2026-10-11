@@ -17,14 +17,16 @@ the dead down, each hears their share of the damage they dealt. Vanilla experien
 orbs, no bottles o' enchanting, nothing to farm. The enchanting table and the anvil still read your
 level, and they spend none of it.
 
-**Hear it ring.** When you reach a new level, it rings out like a bell for everyone near you. And
+**Hear it ring.** When you reach a new level, it rings out like a bell for everyone near you, and
+it rings through you too: every heart comes back, full, right there in the middle of the fight. And
 your level travels with you, worn by your name in its bell metal: **Tin**, then **Copper**,
 **Verdigris**, **Silver** and **Gold**, ten levels apiece, until at level 50 you wear **the Great
 Bell** itself.
 
 **The Bellringer is waiting by the hearth.** Whoever rings the Upper Half hears what each delver
 brings home, and now they will teach you what it is worth. Right-click the Bellringer, spend an Echo
-on a rank, and carry what you have learned into the dark. Two Ways to begin, a third for every king's
+on a rank, and carry what you have learned into the dark. A Way's first rank goes straight into a
+free slot. Two Ways to begin, a third for every king's
 Seal you claim, six at most. Carried Ways are yours from the moment you fall until you walk out.
 
 **The Ways of the Breath.** The first branch, four Ways:
