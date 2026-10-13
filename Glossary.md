@@ -17,7 +17,7 @@
 | **Dead, the** | everything hostile below. Nothing below is alive, so the dead are only ever put down |
 | **Delve** | one run, from the knock to the last delver out or dawn |
 | **Drop, the** | how you enter every hold: falling from above, with Slow Falling |
-| **Factor** | a trader at the hearth. Factors arrive as new treasures come up |
+| **Factor** | a named trader at a counter in Bellmouth. Some deal only from an Echo level |
 | **Gatehouse** | the one built room in each hold, holding the barred Waygate onward |
 | **Gilded chest** | the bright copper chest in each hold's treasury. Holds an heirloom or a high enchant |
 | **Hearth, the** | spawn: a fire under the Upper Half, the wall and the factors |

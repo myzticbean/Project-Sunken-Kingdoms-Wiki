@@ -3,10 +3,7 @@
 Every update, newest first. Each one opens with what every delver will feel, then lifts the lid in
 **Under the hood**: the numbers, the odds and the work that keeps the halls smooth.
 
-## 0.0.3 — coming soon
-
-Still being forged and tested in the halls. Everything below is planned for 0.0.3, and the numbers
-may shift before it lands.
+## 0.0.3 — 2026-10-13
 
 ### For delvers
 
@@ -46,6 +43,10 @@ own if you give it a moment, and food tops it up: bread 4, cooked meat 6, stews 
 and it all stacks to 99, wherever you got it.
 Nothing else drains it. Above, in the valley, there is no hunger at all.
 
+**And now you can see it.** Your nerve burns in Bellmouth's own blue lanterns, a row of them where
+the drumsticks used to be. A lit lantern is nerve to spend, a guttering one is half gone, a dark one
+is spent. Watch them go out as you sprint, and watch them catch again when you stop.
+
 **Run for it.** Below, the deep slows a walking delver: walking is a fifth slower. A sprint shakes
 it off and carries you at full pace, and it costs nerve. A full bar buys about five and a half seconds of hard running,
 so choose when to break into a sprint. Run dry and your legs won't carry you until your nerve
@@ -56,6 +57,16 @@ together and fade together, held for 6.5 seconds, with no flicker. Objectives, k
 falling quiet all hold the same way; a refusal shows once, briefly.
 
 **Your sidebar** now shows your Crowns and any Echoes you have waiting to spend.
+
+**Bellmouth's traders have names.** Walk up to the counters and meet them: **Pell the Provisioner**,
+**Ansel the Assayer** and **Aldith the Alchemist**. All three have stood in Bellmouth since the
+founding, so nobody waits on a first Cairnfire to come up before a counter opens.
+
+**Some counters are earned.** Aldith deals only with a delver Bellmouth knows by their echoes. Walk
+up below level 5 and you are thrown straight back from the counter, with the level Aldith deals from
+right there over your hotbar. Reach it, and the whole shelf is yours: brewing stock and finished
+draughts, at a price that tells you what the deep is worth. What you carry up yourself will always
+be the cheaper way.
 
 **One bell, one side.** No more friendly fire. A wild swing in a crowded tunnel, a stray arrow
 across the hall: none of it finds another delver now, below or in the valley. Every delver goes
@@ -87,6 +98,15 @@ down under the same bell.
   you all fall damage. Fall past your safe distance and the dash is put away, so a long drop hurts
   exactly as it should.
 - **Lighter hoards.** Bottles o' enchanting no longer turn up below, in hoards or as a chest's prize.
+- **Aldith's prices.** 3 glass bottles for 2 Crowns; 2 nether wart or 2 sugar for 12; gunpowder 8;
+  blaze powder 12, twice what the Assayer pays for Rootwart, Ironbark Sap, Blastgrit and Cairnfire.
+  Potions: healing 16, swiftness 20, fire resistance 24, strength 30. Brewing stands are no longer
+  sold.
+- **The Mason has packed up**; the lot stays open for the next trader to come to Bellmouth.
+- **Bellmouth's lanterns travel with the server.** The server hands every delver a small resource
+  pack as they join, and it is required: six sprites, the full, half and empty lantern and their
+  sickly-green twins for when hunger has hold of you. It is served by the game itself, so there is
+  nothing else to install.
 
 ## 0.0.2 — 2026-10-10
 

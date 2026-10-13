@@ -19,7 +19,7 @@ through arches. There's no menu.
 | `/delve admin band <n>` | force the Waking to a band |
 | `/delve admin end` | force-end your delve |
 | `/delve admin skip` | jump to the door of this hold's last room (Throne or gatehouse) |
-| `/delve admin factor <name>` | force a factor's arrival |
+| `/delve admin factor <name>` | stand a factor where you stand |
 | `/delve admin reload` | re-read the config |
 
 ---

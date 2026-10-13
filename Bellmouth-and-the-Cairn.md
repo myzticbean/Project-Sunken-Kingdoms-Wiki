@@ -72,17 +72,8 @@ So anyone sitting at the hearth can follow the night below just by listening.
 
 ## The town itself
 
-Everything else in Bellmouth is **built by the players**: the tavern, walls, roofs, beds, the bar,
-the road. The plugin places only the anchors: the Mouth, the rings, the hearth and its factors. By
-custom the first house at the Mouth is the tavern.
-
-Beds set your spawn as usual. Rest is part of the story, not a mechanic.
-
-## Growing the town
-
-Factors **arrive** when something new comes up from below. The first time any player on the server
-carries up a certain kingdom treasure, the factor who deals in it comes to Bellmouth for good. A new
-player joining later finds a richer town than the founders had, and the town visibly grows because of
-what people did below.
+Bellmouth is raised with the valley: the tavern with the hearth, the factors' houses with their
+counters, the roads and the wells. Every factor has stood here since the founding; a trader added
+later gets a house that rises on an open lot.
 
 Next: [Your First Delve](Your-First-Delve.md)

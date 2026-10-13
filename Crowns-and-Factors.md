@@ -1,7 +1,7 @@
 # Crowns and Factors
 
 > *The factors never go down. They pay in Crowns struck from the kingdoms' own gold, cast a hundred to
-> the bar, and a factor deals only in what has been brought up before.*
+> the bar, and a factor deals only with a delver Bellmouth knows by their echoes.*
 
 Bellmouth's economy is small on purpose. It exists so that a bag of the Stonemark's brass is worth
 something, and no more.
@@ -11,7 +11,7 @@ something, and no more.
 **Crowns buy provisions. Never power.**
 
 No factor sells heirlooms, Seals, tiers, or anything that came from below. Coin buys *time*: food,
-potions, arrows, building stone. A rich player is a player with more potions. Nothing more.
+potions, arrows. A rich player is a player with more potions. Nothing more.
 
 ## Crowns
 
@@ -26,9 +26,11 @@ potions, arrows, building stone. A rich player is a player with more potions. No
 
 ## The factors
 
-Factors are villagers at the hearth. Each opens a normal Minecraft trade screen.
+Factors are named villagers at their counters, every one here since the founding. Each opens a
+normal Minecraft trade screen. A factor who deals only from an Echo level throws anyone below it
+back from the counter, with the level over the hotbar.
 
-### The Provisioner *(here from the founding)*
+### Pell the Provisioner
 
 - Gives every player **the kit**, once, free.
 - Sells food, arrows, torches and cobwebs for Crowns.
@@ -42,37 +44,35 @@ Factors are villagers at the hearth. Each opens a normal Minecraft trade screen.
 | 16 torches | 1 |
 | 4 cobwebs | 2 |
 
-### The Assayer *(here from the founding)*
+### Ansel the Assayer
 
 The Assayer **buys**, with no trade screen:
 
 - **Hold a stack out and right-click the Assayer.** It's bought at once, the Crowns go into your
   purse, and a chat line tells you what you were paid.
 - Buys **every kingdom treasure** from the veins, common to rare. Deeper kingdoms pay more.
-- Also buys **valley ore** (iron, copper, gold, diamonds, debris) at scrap prices.
+- Also buys the hoards' **bulk** (iron, copper, gold, coal, diamonds, emeralds) at scrap prices.
 - **Refuses** heirlooms, Seals, and anything still **tagged** to a delve: *"The Assayer will not touch
   what a delve still owns."* Walk it out first.
 - **Changes coin.** Hold out loose Crowns to have them cast into bars; hold out a bar to break it into
   a hundred.
 
-### The Alchemist *(arrives with the first Cairnfire)*
+### Aldith the Alchemist *(deals from level 5)*
 
-Comes to Bellmouth the first time anyone carries **Cairnfire** up out of the Ashen Hold. Sells
-**brewing**: brewing stands, bottles, nether wart, blaze powder, and potions of healing, fire
-resistance, swiftness and strength.
+Sells **brewing stock and finished draughts**, dear on purpose: stock at twice what the Assayer pays
+for the kingdoms' own, so what you carry up is always the cheaper way.
 
-### The Mason *(arrives with the first Black Steel)*
-
-Comes the first time anyone carries **Black Steel** up out of the Stonemark: the masons' kingdom.
-Sells **stone and stone brick** for building the town.
-
-## Factors arrive
-
-> *A factor deals only in what has been brought up before.*
-
-The town grows because of what people do below. The first time **any player on the server** carries
-up a certain treasure, the factor who deals in it **comes to Bellmouth for good**. One record,
-server-wide. A new player joining months later finds a richer town than its founders did.
+| Sells | Price |
+|---|---|
+| 3 glass bottles | 2 Crowns |
+| 2 nether wart | 12 |
+| 2 sugar | 12 |
+| 1 gunpowder | 8 |
+| 1 blaze powder | 12 |
+| Potion of healing | 16 |
+| Potion of swiftness | 20 |
+| Potion of fire resistance | 24 |
+| Potion of strength | 30 |
 
 ## What to do with your haul
 
