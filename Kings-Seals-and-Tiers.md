@@ -40,7 +40,7 @@ There's no Nether. The Cairn *is* the Nether now. The tier ladder doubles as the
 | Tier | Gear target | Where it comes from |
 |---|---|---|
 | 1 | the kit | the Provisioner, once, free |
-| 2 | enchanted diamond, brewed potions, golden apples | valley diamonds and gold; **fire goods from tier-1 hoards** to brew |
+| 2 | enchanted diamond, brewed potions, golden apples | diamonds and gold from tier-1 hoards; **fire goods from tier-1 hoards** to brew |
 | 3 | netherite, a full potion kit | ancient debris from tier 2's deepest veins, common in the Ashen Hold |
 
 Tier 1 is beatable in the kit with only the potions its own hoards give you.

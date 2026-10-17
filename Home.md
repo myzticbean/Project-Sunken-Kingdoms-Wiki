@@ -63,7 +63,7 @@ is time, breath and nerve.
 **The world**
 - [The Story of the Sunken Kingdoms](The-Story.md): the lore
 - [The Kingdoms](The-Kingdoms.md): Greenwood, Stonemark, the Hush, the Ashen Hold
-- [Bellmouth and the Cairn](Bellmouth-and-the-Cairn.md): the town, the hearth, the Mouth and its rings
+- [Bellmouth and the Cairn](Bellmouth-and-the-Cairn.md): the town, the tavern, the gate, the Mouth and its ring
 
 **How to play**
 - [Your First Delve](Your-First-Delve.md): a step-by-step walkthrough

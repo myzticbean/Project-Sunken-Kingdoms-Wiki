@@ -2,7 +2,7 @@
 
 > *They are one bell: strike any and the others answer.*
 
-The **Upper Half** over the hearth, the **bells over the rings** in the Mouth, and the **bell in
+The **Upper Half** over the hearth, the **bell over the ring** in the Mouth, and the **bell in
 every Waygate arch** below are, in the story, **one instrument**: the Sunken Bell. Anything that
 happens at one is heard at the others.
 

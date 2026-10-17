@@ -17,6 +17,7 @@ still design.
 | 6 | The Waking, the dead rising from the floor, leashes and sleep, marks, wights, robbing |
 | 7 | Gate objectives: Slay the Gatekeepers, Hold the Gate |
 | 8 | Breaking a gate homeward: the Holdout, the peal, the Oathbound |
+| R0 | Bellmouth under the Cairn: houses dug into the foothills, the gate, the tunnel and the Mouth, the valley's own trees, the closed valley |
 
 ## Built, awaiting in-game check
 

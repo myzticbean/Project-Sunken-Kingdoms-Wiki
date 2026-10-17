@@ -3,6 +3,88 @@
 Every update, newest first. Each one opens with what every delver will feel, then lifts the lid in
 **Under the hood**: the numbers, the odds and the work that keeps the halls smooth.
 
+## 0.0.4 — unreleased
+
+### For delvers
+
+**A new Bellmouth.** The town has come down off the mountain and settled at the Cairn's foot, and
+every house in it is dug into the foothills the way a builder would set it: its front out in timber
+and stone, its back cut into the rock, its roof running into the hill. Nothing stands on a pad and
+no raw cut shows. Every house is a hand-drawn design, and each one is its trader's own:
+
+- **Pell the Provisioner's** jettied shop, with its striped stall, a stair-faced counter, barrels
+  under the eave and a waxed copper roof that keeps the colour it was laid.
+- **Ansel the Assayer's** stone strongroom: an open porch between splay-footed piers where Ansel
+  weighs your finds, a timber gallery railed in spruce, buttresses down its sides and a steep slate
+  roof topped by a louvred stack.
+- **Aldith the Alchemist's** funnel house: a spruce-framed shop over a pale stone cellar, reached by
+  steps cut into a heap of rock, a lime-green brew vat at their foot. A slim tower rises from its
+  terrace beside a black funnel that vents a cloud of purple vapour, and the vapour glows at night.
+- **Sigrun's forge**: a long open hall arched between four posts, its back wall the living rock, its
+  ridge curling up at the end like a ship's prow, and beside it a stepped stone furnace whose fire
+  burns behind copper grates. The forge stands ready. Sigrun herself arrives later.
+
+**The tavern is the heart of it.** It stands where the paths meet, below the gate. The Upper Half
+hangs inside on copper chains from the roof, down through an open gallery, right over the spot
+where you wake. The wall's couplets and the records are cut into the panels on either side of the
+doors, and the factors stand in a row with the Bellringer at its end.
+
+**The way in is a door in the mountain.** A gate is carved into the Cairn's face, overgrown and
+old, and behind it a worn tunnel curves down into the dark, lit by copper lanterns hung on chains,
+to **the Mouth**: a cave hall like the holds below, which a thousand years of delvers have made
+their own. Carved pillars, benches facing the well, banners faded and torn, offerings at the well's
+edge, the companies' names cut one to a sign, and a floor polished smooth along the line everyone
+walks. Its candles stand cold until the bell is struck. **Each toll lights more of them**, from the
+well outward, and when the ground closes they go dark again.
+
+**The well goes deeper.** The shaft under the ring now drops 23 blocks below the bowl's ledge, ten
+more than before.
+
+**The valley is closed.** The border is drawn tight round the Cairn's foot and the town, and
+nothing in the town's world breaks: no house, no road, no tree. Bellmouth stays the way it was
+built for everyone who comes home to it.
+
+**Green country, our own trees.** The Cairn always rises in green country now, never badlands,
+mesa, savanna or desert. Where the wild trees stood, oaks and spruces grown for this valley stand
+instead, no two alike, leaf litter thick at their trunks and firefly bushes glowing under some of
+them. Autumn reaches every one of them, and the oaks turn whole.
+
+**The roads climb like roads.** On steep ground a road is cut into the hill, level from side to
+side, a stone wall holding the bank back, and it climbs on clean flights of stairs that face up the
+road. Every road ends on its door's floor. Where the ground drops away beside one, a spruce fence
+runs along the edge.
+
+**The Greenwood looks like the Greenwood.** Its stone is root-bound and drowned: grey-green,
+threaded with dark roots, moss in its cracks, darker and wetter the deeper you go. Its bricks, its
+cobble, its floor of dark root-mat and wet gravel, its dripstone and its veins are all its own, and
+every rock is drawn four ways so no wall repeats. The ore flecks stay the ones you know, so a vein
+still reads at a glance, and it mines at the pace your pick always had.
+
+**Rare veins shine.** Strike, click or step on a Greenwood diamond or emerald vein and it lights
+up, with green dust rising off it.
+
+**The water breathes.** Vents are dark fissures that pulse a drowned green. On the bed of a hold's
+deep water lie seeps of dark silt, bubbles rising off each.
+
+**You can see your nerve fail.** When it runs low enough that your sprint gives out, your lanterns
+burn a sickly green.
+
+### Under the hood
+
+- **The tunnel** is 36 to 60 blocks long. Its lanterns hang two blocks off the middle on alternate
+  sides, one every eighth step past the dark at its mouth.
+- **The candles** light a share per toll, nearest the well first, so a full peal lights the hall.
+- **The town** takes lots in the foothills 18 to 90 blocks from the tavern's square. The border
+  runs 48 blocks beyond the Cairn's foot and the town.
+- **The forest floor:** one tree in three has a clump of two to four firefly bushes under it.
+- **Shining veins** stay lit for 3 to 8 seconds, as redstone ore does.
+- **Seeps:** up to four in a hold's deep water, on a bed under at least two blocks of water and
+  clear of the vents.
+- **Low nerve** turns the lanterns green at 6 nerve or less, where vanilla stops your sprint. The
+  green is only a colour: it drains nothing.
+- **Everyone joins at once.** Every resource pack download is served on its own thread, so a crowd
+  joining together never waits behind one slow connection.
+
 ## 0.0.3 — 2026-10-13
 
 ### For delvers

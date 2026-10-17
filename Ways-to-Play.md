@@ -94,6 +94,7 @@ costs nothing.
 - **Brew.** Fire goods (nether wart, blaze rods, glowstone, magma cream) come in every hold's hoards.
   Mid-tier vein treasures are brewing ingredients.
 - **Cook.** Food doesn't heal below, but sprinting needs it.
-- **Mine the valley** for diamonds and gold. The tier 2 target is enchanted diamond and golden apples.
+- **Keep the hoards' diamonds and gold.** The valley is held, so the tier 2 target (enchanted diamond
+  and golden apples) comes up from below.
 
 Next: [Glossary](Glossary.md)

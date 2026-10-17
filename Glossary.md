@@ -6,7 +6,7 @@
 | **Arrival arch** | the arch you land beside after crossing a Waygate. Never barred, always two-way, and you can start a Holdout at it |
 | **Assayer, the** | the factor who buys what you bring up, for Crowns, by right-click. Also changes coin |
 | **Band** | one step of the Waking, 0 to 5: Sleeping, Stirring, Waking, Risen, Marching, the Host |
-| **Bellmouth** | the town at the Mouth of the Cairn. Built by players around the hearth |
+| **Bellmouth** | the town dug into the Cairn's foot, its tavern and the hearth where the paths meet |
 | **Breath, the** | the delve's health rule: +10 hearts on arrival, no natural healing, the dead heal you when put down |
 | **Cairn, the** | the mountain heaped over the sunken kingdoms. Spawn is on its side |
 | **Call, the** | a Hush shrieker's cry: darkness, and every Hush dead in reach comes for whoever set it off |
@@ -36,7 +36,7 @@
 | **Listening post** | a dark side-pocket in the Hush where the shriekers are. Never on the route |
 | **Mark** | one power on a dead: Fleet, Ironbound, Unresting, Wrathful or Shadowed, shown by colour |
 | **Membership** | the list of players in a delve. You join by falling in, and leave only by walking out |
-| **Mouth, the** | the hall cut into the Cairn holding the rings |
+| **Mouth, the** | the hall inside the Cairn, down the tunnel from the gate, holding the ring |
 | **Oathbound, the** | the kings' sworn knights who answer a Holdout's bell: the Knight (iron golem) and the King's Hound (ravager) |
 | **Peal, the** | the tolling of a Holdout, one toll per wave |
 | **Processional** | the dressed tunnel into the Throne |
@@ -61,7 +61,7 @@
 | **Vein** | ore in the walls. Gives the kingdom's own treasure, works once, then turns to rock |
 | **Vow** | *(planned)* an optional modifier sworn at the ring before a delve |
 | **Waking, the** | the difficulty clock: time, robbing and crossing gates make the dead stronger |
-| **Wall, the** | the inscriptions and records at the hearth |
+| **Wall, the** | the couplets and records cut into the tavern's panels by the doors |
 | **Watched** | a hoard whose room still has dead standing. It smokes with soul particles |
 | **Waygate** | the arch between two holds. Barred until its objective is won |
 | **Wight** | a glowing, named, marked elite dead with a guaranteed treasure drop |

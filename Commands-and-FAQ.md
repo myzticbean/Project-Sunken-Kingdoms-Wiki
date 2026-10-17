@@ -49,7 +49,7 @@ The halls are held exactly as they were the night they sank. Only ore can be wor
 
 **I mined diamond ore and got something called "Black Steel." Where are my diamonds?**
 Ore below never gives vanilla ore. Each kingdom's rock gives its own treasures. Sell them to the
-Assayer, or keep them. Valley diamonds are still on the surface.
+Assayer, or keep them. Diamonds turn up in the hoards below.
 
 **Why won't the chest let me put things in?**
 Nothing found below can go into any container below. The dead would only take it back. Carry it, or
